@@ -33,7 +33,7 @@ const reviews = [{
         says: `not a qoute`,
         person: ``,
         post: ``,
-    },
+},
 ];
 //reviews logic
 const Review = () => {
